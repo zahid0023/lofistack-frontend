@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Services",
+    "href": "/services"
+  },
+  {
+    "name": "Showcase",
+    "href": "/showcase"
+  },
+  {
+    "name": "About",
+    "href": "/about"
+  },
+  {
+    "name": "Contact",
+    "href": "/contact"
+  },
+  {
+    "name": "Blog",
+    "href": "/blog"
+  }
+]
